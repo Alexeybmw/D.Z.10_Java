@@ -2,7 +2,7 @@ package ru.netology;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import org.junit.jupiter.params.ParameterizedTest;
+
 
 public class MoviesManagerTest {
 
@@ -28,7 +28,6 @@ public class MoviesManagerTest {
         manager.add(movie7);
 
     }
-
 
     @Test
     public void test1() {
